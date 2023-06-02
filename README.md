@@ -1,13 +1,14 @@
-<img
-    style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="./assets/isometric_cube_transparent.png"
-    alt="Logo">
-</img>
+<p align="center">
+    <img
+        style="display: block;
+               width: 30%;"
+        src="./assets/isometric_cube_transparent.png"
+        alt="Logo">
+    </img>
+</p>
 
-<h1 style="text-align: center;">CoreFlow</h1>
+
+<h1 align="center">CoreFlow</h1>
 
 The future of Continuous Integration/Continuous Deployment (CI/CD) systems
 
