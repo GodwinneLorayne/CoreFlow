@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "src/core_flow_client_web",
+    "src/core_flow_client_cli",
+]

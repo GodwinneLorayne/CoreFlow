@@ -1,0 +1,2 @@
+// resources.rc
+IDI_ICON1 ICON DISCARDABLE "isometric_cube_transparent_64.ico"

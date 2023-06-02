@@ -1,0 +1,10 @@
+[package]
+name = "core_flow_client_web"
+version = "0.1.0"
+edition = "2021"
+build = "../core_flow_shared/src/build.rs"
+
+[dependencies]
+
+[build-dependencies]
+embed-resource = "2.1.1"
