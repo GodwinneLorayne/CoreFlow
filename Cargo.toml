@@ -3,4 +3,6 @@
 members = [
     "src/core_flow_client_web",
     "src/core_flow_client_cli",
+    "src/core_flow_client_echo",
+    "src/core_flow_server_echo",
 ]

@@ -1,0 +1,11 @@
+[package]
+name = "core_flow_server_echo"
+version = "0.1.0"
+edition = "2021"
+build = "../core_flow_shared/src/build.rs"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+
+[build-dependencies]
+embed-resource = "2.1.1"
