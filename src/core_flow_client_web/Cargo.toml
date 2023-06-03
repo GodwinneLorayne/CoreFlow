@@ -5,6 +5,7 @@ edition = "2021"
 build = "../core_flow_shared/src/build.rs"
 
 [dependencies]
+yew = "0.20.0"
 
 [build-dependencies]
 embed-resource = "2.1.1"
